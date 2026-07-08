@@ -1,0 +1,7 @@
+MODEL_PATH = "models/model.pkl"
+
+SAMPLE_RATE = 22050
+
+N_MFCC = 40
+
+MAX_PAD_LENGTH = 174
